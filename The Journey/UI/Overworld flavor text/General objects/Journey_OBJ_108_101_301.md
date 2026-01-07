@@ -1,3 +1,3 @@
-Minato Arisato - Thoughts
-This area is for employees only.
-
+Minato Arisato - Thoughts   
+This area is for employees only.   
+   

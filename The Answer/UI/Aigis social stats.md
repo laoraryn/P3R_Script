@@ -1,9 +1,9 @@
-Brain
-Needs Work
-
-Charm
-Kindhearted
-
-Courage
-Fearless
-
+Brain   
+Needs Work   
+   
+Charm   
+Kindhearted   
+   
+Courage   
+Fearless   
+   

@@ -1,3 +1,3 @@
-Hotheaded Student
-Hey, don't come in my room without my permission!
-
+Hotheaded Student   
+Hey, don't come in my room without my permission!   
+   
