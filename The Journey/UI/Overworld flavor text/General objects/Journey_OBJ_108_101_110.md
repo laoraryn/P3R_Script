@@ -1,6 +1,0 @@
-Minato Arisato - Thoughts   
-This hanging scroll depicts   
-various landscapes...   
-They all seem to be different areas in Kyoto.   
-Now I feel like visiting these places...   
-   

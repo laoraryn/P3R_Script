@@ -1,3 +1,0 @@
-DEV: Internal MES - MND_000_0_0   
-Looks like there isn't any mail for me...   
-   

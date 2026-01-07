@@ -1,3 +1,0 @@
-Minato Arisato - Thoughts   
-I shouldn't try to go outside from here...   
-   

@@ -1,6 +1,0 @@
-Minato Arisato - Thoughts   
-Tatsumi East Police Station...   
-Officer Kurosawa helped us a lot.   
-I think I first met him in April of last year   
-when Sanada asked to meet up here...   
-   
