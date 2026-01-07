@@ -1,0 +1,10 @@
+{
+  "findText": "top - SEL_[0-9_]+",
+  "replaceText": "Aigis - selection",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}

@@ -1,0 +1,8 @@
+{
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
+}

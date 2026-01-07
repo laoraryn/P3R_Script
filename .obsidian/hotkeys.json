@@ -1,0 +1,38 @@
+{   
+  "obsidian-hotkeys-for-templates:Divider.md": [   
+    {   
+      "modifiers": [   
+        "Mod",   
+        "Shift"   
+      ],   
+      "key": "A"   
+    }   
+  ],   
+  "workspace:toggle-pin": [   
+    {   
+      "modifiers": [   
+        "Mod",   
+        "Shift"   
+      ],   
+      "key": "P"   
+    }   
+  ],   
+  "obsidian-regex-replace:obsidian-regex-replace": [   
+    {   
+      "modifiers": [   
+        "Mod",   
+        "Shift"   
+      ],   
+      "key": "H"   
+    }   
+  ],   
+  "global-search-and-replace:search-and-replace": [   
+    {   
+      "modifiers": [   
+        "Alt",   
+        "Mod"   
+      ],   
+      "key": "H"   
+    }   
+  ]   
+}

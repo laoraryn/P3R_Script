@@ -1,0 +1,6 @@
+Minato Arisato - Thoughts   
+It's the Azuki Arai Sweets   
+mascot, Azuki-chan...   
+It looks more cheerful than   
+usual for some reason...   
+   

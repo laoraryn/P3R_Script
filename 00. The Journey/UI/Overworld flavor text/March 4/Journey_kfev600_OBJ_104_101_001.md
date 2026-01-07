@@ -1,0 +1,9 @@
+Minato Arisato - Thoughts   
+Screen Shot Movie Theater...   
+I learned a lot from the different   
+kinds of movies I've seen here...   
+   
+Minato Arisato - Thoughts   
+Screen Shot Movie Theater...   
+It's too crowded right now.   
+   
