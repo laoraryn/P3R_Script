@@ -1,0 +1,6 @@
+Minato Arisato - Thoughts
+Unlike the clean station plaza,
+this area is littered with trash...
+It doesn't seem to be
+very well-managed here...
+
