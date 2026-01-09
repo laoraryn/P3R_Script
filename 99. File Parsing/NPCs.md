@@ -1,118 +1,117 @@
-(('100','School Store Vendor'),
-            ('101','Flower Shop Lady'),
-            ('102','6HARA Clerk'),
-            ('103','Octopia Shopkeeper'),
-            ('104','Luxury Shopkeeper'),
-            ('105','Suspicious Man'),
-            ('201','Ms. Toriumi in Kyoto'),
-            ('270','Shuji Ikutsuki'),
-            ('272','Ryoji Mochizuki'),
-            ('273','Elizabeth'),
-            ('296','Exam study party'),
-            ('300','Brown-Haired Student'),
-            ('301','Fawning Student'),
-            ('302','Somber Student'),
-            ('303','Anxious Student'),
-            ('304','Waiting Student'),
-            ('305','Very Curious Student'),
-            ('306','Club-Ditching Student'),
-            ('307','Kind-Looking Student'),
-            ('308','Pubescent Student'),
-            ('309','Indifferent Student'),
-            ('310','Studious Student'),
-            ('311','Well-Behaved Student'),
-            ('312','Stylish Student'),
-            ('315','Mitsuru Superfan'),
-            ('316','Earnest Student'),
-            ('317','Lazy Student'),
-            ('320','Pale Student'),
-            ('321','Phone-Addicted Student'),
-            ('322','Friendly Student'),
-            ('323','Gamer Student'),
-            ('324','Flustered Student'),
-            ('325','Informed Student'),
-            ('326','Preachy Teacher'),
-            ('400','Cheerful Old Man'),
-            ('401','Leisurely Businessman'),
-            ('402','Skilled Reporter'),
-            ('403','Chatting Housewives'),
-            ('404','Fortune-Teller'),
-            ('405','Fortune Telling Addict'),
-            ('406','Candid Woman'),
-            ('407','Man Who Cant Get Groovy'),
-            ('408','Upbeat Woman'),
-            ('409','Friendly Man'),
-            ('410','Vain Woman'),
-            ('411','Rumor-Loving Girl'),
-            ('413','Cat-Loving Boy'),
-            ('414','Stray Cat'),
-            ('416','Taxi Driver'),
-            ('417','Precocious Girl'),
-            ('418','Earnest Station Worker'),
-            ('419','Snobby Movie Critic'),
-            ('420','Shy Man'),
-            ('421','Calm Woman'),
-            ('422','Stray Cat'),
-            ('423','Frowning Man'),
-            ('424','Weak Cat'),
-            ('425','Fierce-Looking Delinquent'),
-            ('426','Languid Delinquent'),
-            ('427','Elderly Man Taking a Break'),
-            ('429','Good-Looking Guy [Yakushima]'),
-            ('430','Pretty Lady [Yakushima]'),
-            ('431','Shady-Looking Man'),
-            ('435','Shy Man and Calm Woman'),
-            ('436','Eccentric Man'),
-            ('500','Suspicious-Looking Man'),
-            ('602','Friendly Student [Kyoto]'),
-            ('603','Enthusiastic Student [Kyoto]'),
-            ('604','Angry Student [Kyoto]'),
-            ('605','Talkative Student [Kyoto]'),
-            ('606','Tourist Mood Student [Kyoto]'),
-            ('607','Energetic Student [Kyoto]'),
-            ('608','Student with Heavy Makeup [Kyoto]'),
-            ('609','High-Spirited Student [Kyoto]'),
-            ('610','Concerned Student [Kyoto]'),
-            ('612','Cheerful Student [Kyoto]'),
-            ('613','Anticipating Student [Kyoto]'),
-            ('614','Shinsengumi Fan Student [Kyoto]'),
-            ('617','Weight-Conscious Student [Kyoto]'),
-            ('642','Carefree Third-Year [Kyoto]'),
-            ('643','Quiet Student [Kyoto]'),
-            ('644','Boy with Ulterior Motives [Kyoto]'),
-            ('645','Bored Student [Kyoto]'),
-            ('646','Calm Student [Kyoto]'),
-            ('649','Annoying Student [Kyoto]'),
-            ('650','Particular Student [Kyoto]'),
-            ('651','Student in Distress [Kyoto]'),
-            ('652','Happy Student [Kyoto]'),
-            ('653','Well-Behaved Student [Kyoto]'),
-            ('654','Fairly Delinquent Student [Kyoto]'),
-            ('655','Student by the Paper Sliding Door [Kyoto]'),
-            ('656','Hotheaded Student [Kyoto]'),
-            ('657','Serious Student [Kyoto]'),
-            ('682','Realistic Student [Kyoto]'),
-            ('691','Fierce Guy [Yakushima]'),
-            ('692','Woman in a Good Mood [Yakushima]'),
-            ('693','Sweaty Man [Yakushima]'),
-            ('694','Kind Woman [Yakushima]'),
-            ('695','Little Girl Having Fun [Yakushima]'),
-            ('696','Kind Woman [Yakushima]'),
-            ('700','Fanatical Student'),
-            ('701','Fanatical Man'),
-            ('702','Fanatical Woman'),
-            ('703','Fanatical Older Woman'),
-            ('750','Doubtful Student'),
-            ('751','Student Back to Senses'),
-            ('752','Wannabe Follower Woman'),
-            ('753','Wannabe Follower Student'),
-            ('754','Wannabe Follower Student'),
-            ('755','Indifferent Man'),
-            ('756','Wannabe Follower Man'),
-            ('757','Cult-Loving Student'),
-            ('758','Bored Woman'),
-            ('800','Apathy Syndrome Student'),
-            ('820','Apathy Syndrome Student'),
-            ('840','Apathy Syndrome Man'),
-            ('860','Apathy Syndrome Woman'))
-        
+- 100 - School Store Vendor    
+- 101 - Flower Shop Lady    
+- 102 - 6HARA Clerk    
+- 103 - Octopia Shopkeeper    
+- 104 - Luxury Shopkeeper    
+- 105 - Suspicious Man    
+- 201 - Ms. Toriumi in Kyoto    
+- 270 - Shuji Ikutsuki    
+- 272 - Ryoji Mochizuki    
+- 273 - Elizabeth    
+- 296 - Exam study party    
+- 300 - Brown-Haired Student    
+- 301 - Fawning Student    
+- 302 - Somber Student    
+- 303 - Anxious Student    
+- 304 - Waiting Student    
+- 305 - Very Curious Student    
+- 306 - Club-Ditching Student    
+- 307 - Kind-Looking Student    
+- 308 - Pubescent Student    
+- 309 - Indifferent Student    
+- 310 - Studious Student    
+- 311 - Well-Behaved Student    
+- 312 - Stylish Student    
+- 315 - Mitsuru Superfan    
+- 316 - Earnest Student    
+- 317 - Lazy Student    
+- 320 - Pale Student    
+- 321 - Phone-Addicted Student    
+- 322 - Friendly Student    
+- 323 - Gamer Student    
+- 324 - Flustered Student    
+- 325 - Informed Student    
+- 326 - Preachy Teacher    
+- 400 - Cheerful Old Man    
+- 401 - Leisurely Businessman    
+- 402 - Skilled Reporter    
+- 403 - Chatting Housewives    
+- 404 - Fortune-Teller    
+- 405 - Fortune Telling Addict    
+- 406 - Candid Woman    
+- 407 - Man Who Cant Get Groovy    
+- 408 - Upbeat Woman    
+- 409 - Friendly Man    
+- 410 - Vain Woman    
+- 411 - Rumor-Loving Girl    
+- 413 - Cat-Loving Boy    
+- 414 - Stray Cat    
+- 416 - Taxi Driver    
+- 417 - Precocious Girl    
+- 418 - Earnest Station Worker    
+- 419 - Snobby Movie Critic    
+- 420 - Shy Man    
+- 421 - Calm Woman    
+- 422 - Stray Cat    
+- 423 - Frowning Man    
+- 424 - Weak Cat    
+- 425 - Fierce-Looking Delinquent    
+- 426 - Languid Delinquent    
+- 427 - Elderly Man Taking a Break    
+- 429 - Good-Looking Guy [Yakushima]    
+- 430 - Pretty Lady [Yakushima]    
+- 431 - Shady-Looking Man    
+- 435 - Shy Man and Calm Woman    
+- 436 - Eccentric Man    
+- 500 - Suspicious-Looking Man    
+- 602 - Friendly Student [Kyoto]    
+- 603 - Enthusiastic Student [Kyoto]    
+- 604 - Angry Student [Kyoto]    
+- 605 - Talkative Student [Kyoto]    
+- 606 - Tourist Mood Student [Kyoto]    
+- 607 - Energetic Student [Kyoto]    
+- 608 - Student with Heavy Makeup [Kyoto]    
+- 609 - High-Spirited Student [Kyoto]    
+- 610 - Concerned Student [Kyoto]    
+- 612 - Cheerful Student [Kyoto]    
+- 613 - Anticipating Student [Kyoto]    
+- 614 - Shinsengumi Fan Student [Kyoto]    
+- 617 - Weight-Conscious Student [Kyoto]    
+- 642 - Carefree Third-Year [Kyoto]    
+- 643 - Quiet Student [Kyoto]    
+- 644 - Boy with Ulterior Motives [Kyoto]    
+- 645 - Bored Student [Kyoto]    
+- 646 - Calm Student [Kyoto]    
+- 649 - Annoying Student [Kyoto]    
+- 650 - Particular Student [Kyoto]    
+- 651 - Student in Distress [Kyoto]    
+- 652 - Happy Student [Kyoto]    
+- 653 - Well-Behaved Student [Kyoto]    
+- 654 - Fairly Delinquent Student [Kyoto]    
+- 655 - Student by the Paper Sliding Door [Kyoto]    
+- 656 - Hotheaded Student [Kyoto]    
+- 657 - Serious Student [Kyoto]    
+- 682 - Realistic Student [Kyoto]    
+- 691 - Fierce Guy [Yakushima]    
+- 692 - Woman in a Good Mood [Yakushima]    
+- 693 - Sweaty Man [Yakushima]    
+- 694 - Kind Woman [Yakushima]    
+- 695 - Little Girl Having Fun [Yakushima]    
+- 696 - Kind Woman [Yakushima]    
+- 700 - Fanatical Student    
+- 701 - Fanatical Man    
+- 702 - Fanatical Woman    
+- 703 - Fanatical Older Woman    
+- 750 - Doubtful Student    
+- 751 - Student Back to Senses    
+- 752 - Wannabe Follower Woman    
+- 753 - Wannabe Follower Student    
+- 754 - Wannabe Follower Student    
+- 755 - Indifferent Man    
+- 756 - Wannabe Follower Man    
+- 757 - Cult-Loving Student    
+- 758 - Bored Woman    
+- 800 - Apathy Syndrome Student    
+- 820 - Apathy Syndrome Student    
+- 840 - Apathy Syndrome Man    
+- 860 - Apathy Syndrome Woman
