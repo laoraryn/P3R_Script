@@ -201,4 +201,4 @@ for xx in allfiles:
 
     ReSplit = SplitLine(CleanText)
 
-    thing.NewFile(CleanName,ReSplit)
+    NewFile(CleanName,ReSplit)
