@@ -63,4 +63,3 @@ Maybe I'll fix them at some point, but for right now I'm just leaving them as-is
 - [ ] The 3D models would also be amazing but I think those might be too big?
 - [ ] Maybe put a link to Youtube videos for social links and plot events at the top of the file - so both options are in one place
 - [ ] Fixing the one-off expressions mentioned in Note
-- [ ] 
